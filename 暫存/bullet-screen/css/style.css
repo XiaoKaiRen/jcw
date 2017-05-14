@@ -1,0 +1,37 @@
+.bullet-screen {
+	height: 1080px;
+	border: 1px;
+	border-color: rgb(200, 200, 200);
+	border-style: solid;
+	margin: 20px;
+	white-space:nowrap;
+}
+
+.input-send {
+	margin-top: 15px;
+	width: 400px;
+}
+
+.btn1 {
+	margin-top: 15px;
+	width: 150px;
+	color: red;
+	border-color: red;
+}
+
+.btn2 {
+	margin-top: 15px;
+	width: 150px;
+	color: gray;
+	border-color: gray;
+}
+
+.dm_message {
+	font-size: 20px;
+	position: absolute;
+}
+
+.footer {
+  margin-top: 30px;
+  text-align: center;
+}
